@@ -1,0 +1,26 @@
+{
+  "name": "@adobe/parliament-color-theme",
+  "displayName": "Parliament Theme",
+  "description": "Parliament inspired color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Color Theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Parliament",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Parliament-color-theme.json"
+      }
+    ]
+  }
+}
