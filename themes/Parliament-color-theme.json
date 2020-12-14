@@ -2,10 +2,10 @@
 	"name": "Parliament",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
+		"editor.background": "#1e1e1e",
+		"editor.foreground": "#e3e3e3",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#b9b9b9"
 	},
 	"tokenColors": [
 		{
@@ -16,7 +16,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#a2a2a2"
 			}
 		},
 		{
@@ -26,7 +26,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#58e06f"
 			}
 		},
 		{
@@ -56,7 +56,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#d951e5"
 			}
 		},
 		{
@@ -64,7 +64,6 @@
 			"scope": [
 				"keyword.control",
 				"constant.other.color",
-				"punctuation",
 				"meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
@@ -76,7 +75,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#378ef0"
 			}
 		},
 		{
@@ -100,7 +99,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#9090fa"
 			}
 		},
 		{
@@ -109,7 +108,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#c8c8c8"
 			}
 		},
 		{
@@ -135,7 +134,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#ffb55b"
 			}
 		},
 		{
@@ -150,7 +149,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#33ab84"
 			}
 		},
 		{
@@ -166,7 +165,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#26c0c7"
 			}
 		},
 		{
@@ -210,7 +209,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#ff7b82"
 			}
 		},
 		{
